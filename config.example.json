@@ -1,0 +1,21 @@
+{
+  "log_level": "info",
+  
+  "api": "https://inaba.example.com/api",
+  "gateway": {
+    "host": "1.2.3.4",
+    "port": 22
+  },
+  "local": {
+    "host": "127.0.0.1",
+    "port": 1022
+  },
+
+  "authentication": {
+    "method": "secret",
+    "params": {
+      "secret": "nobody-knows"
+    }
+  },
+  "backend": "web"
+}
