@@ -11,14 +11,14 @@
   "bugs": "https://github.com/zhyupe/inaba/issues",
   "license": "GPL-2.0",
   "dependencies": {
-    "axios": "^0.19.0",
-    "log4js": "^5.3.0"
+    "axios": "^0.19.2",
+    "log4js": "^6.1.2"
   },
   "devDependencies": {
-    "eslint": "^6.6.0",
-    "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^10.0.0",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1"
   }
